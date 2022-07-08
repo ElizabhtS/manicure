@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Caveat&display=swap');
+body{
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Caveat', cursive;
+    background-image: url(../img/09d176549a2f3059152fca2975c1cca1.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    font-size: 35px;
+}
+.one{
+    display: flex;
+    flex-direction: column;
+}
+.n-one{
+    display: flex;
+    flex-direction: row;
+}
+img{
+    width: 350px;
+    height: 290px;
+    margin: 50px;
+}
+h1{
+    text-align: center;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: #68426e;
+}
